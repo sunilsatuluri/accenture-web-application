@@ -10,5 +10,5 @@ jobs:
         run: echo "Welcome to Github Actions!!!"
       - name: command 2
         run: echo "Learning Github Actions!!!"
-      - name: command 1
+      - name: command 3
         run: pwd
